@@ -1,0 +1,24 @@
+name: Update public AI news
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: public-ai-news
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install 'requests>=2.31,<3'
+      - run: python refresh.py
+      - run: |
+          git add news.json
+          git diff --cached --quiet && exit 0
+          git -c user.name='News updater' -c user.email='actions@users.noreply.github.com' commit -m 'Update public news'
+          git push
