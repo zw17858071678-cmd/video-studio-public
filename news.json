@@ -1,6 +1,12 @@
 {
-  "updated_day": "2026-11-06",
+  "updated_day": "2026-11-07",
   "featured": [
+    {
+      "title": "Raycast 推出新功能 讓用戶可語音與 AI 互動並自動獲取上下文",
+      "source": "Techritual",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kMFU1LUY2NjZDRjlBWTIwQ1lHczd4WVlJOE9nTl9mdjJTN2tLdmdhS1hNQU1jR2FWOEQtZFNWVG9DMzQ0ajRaaHMzT2dkTWh6YmF4Y2Y3c2o?oc=5",
+      "daily_edition": "2026-11-07"
+    },
     {
       "title": "齊魯醫院發布兩個AI平台 打造智慧醫院「齊魯樣板」",
       "source": "大公文匯網",
@@ -28,106 +34,86 @@
   ],
   "trending": [
     {
-      "title": "市場觀察 | 人工智能股遭遇歷史性暴跌：究竟發生了什麼，後市將如何演繹？",
+      "title": "市場中的一個插曲：人工智能牛市遭遇重挫的一週（附現金與融資交易排行榜）",
       "source": "Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2NXS29UMFVDS3k4S3NVYXdoeFRLRTlSNzBWRGdvUlJZdTZjSEVybjBHTGpRenVzWTRNcUxUdGJpemFnNE4xN2h4Vktwam9VNlh6cFpKekZDR3dsTi1HVGpRZ1dOU3lmNTVkRk4xM1ZWc2xjSk4wSEJ2dlNiZVBzbHN0UkRHUFB1V0s3SkpRQVg2RERPbmRkS25NY3NWUGRPUGMwRGwwTWotd3N0SWlQbk5IcUM?oc=5",
-      "day": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE9TbjFKbmJERjdtcjhUVjFXWjY3ODRiQnByd1BWbGVQTDIwSWVMaFlYd2hsZnhiTlhmdUR6WU54XzdFZnZvM2hQQk5KNl9HUU9oa2d5bkN3Zl9sSmtfRl81bTU3Y0puNEpYSjRFcHJOVEd0aHA1Qm5JeGZxS0I3RXFaUFJhWmFXMDlNWHNTM0lDQzVSQTRWdTVFYzNEWEF2RWc?oc=5",
+      "day": "2026-11-07",
       "rank": 1
     },
     {
-      "title": "AI監管風暴！民主黨擬推「超級AI禁令」 罪刑比照核武罪 喊「立即暫停全美資料中心建設」",
-      "source": "工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aTHAzUXJyc0JsV2Vod0NPYmtmVjhMSmZZZzBldEJIUHhUQ3hHMDdyV2hRMEFZX3l5RVlYNWRnNWVDc09tWVdMU3FFZnVqN21BdGJseE1IdTV5Y1hzV09Z?oc=5",
-      "day": "2026-11-06",
+      "title": "甲骨文的人工智能困境成為華爾街的新隱憂：null擔憂加劇，兩隻ETF值得關注",
+      "source": "鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EYnhIWl8wVkpUd1BJcWVTd3hZemJqaDRpWU56eHVBSTNWNDlNeEJsMFJyZ3F1em9vOGNPNTdIM0FqRnZCajI3eQ?oc=5",
+      "day": "2026-11-07",
       "rank": 2
-    },
-    {
-      "title": "野村: 料美國聯邦層級暫停人工智能數據中心可能性不大",
-      "source": "Yahoo 財經",
-      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNbHNPUnQ3WjdVTGpGUVlvaGJKMEVVNEhnR2pyT1dfekdRdmJwTnZXNWpwT082ak5IOUE5bmhNSkpjVm1IOFNnM3pQMWwyYTdrdXpXY0h1X3UyWk5ONE1YcWNBQnowdFl5RElqLXFEN1Y5ME5zWC1fNklodDdmVnNTS0JSNW1MbXFOT2lTTlJzNlNlM1huZERZYlVoQUpyY3h2RHd0cHRTLURCeHpkOFZMdS1vbmJrdllfbExvOVhEOVIycHNod01aby1kdzZCSDVBWU1uRVM1eDlhSUUwR3FCVjZjUl9ETG5ZU1V1WXR2OGNiczZKZlRWLVRxTzZOOVdjajgwOWVuOFBPUm41M0lmS1hkNkQtZ0JtRm9fU0hob29oYzk1Y1hsc0ItejQ0ZUE3V2NuXzNWbW5qeVBGUndRUk9vV0J4SnBTc2JZSTlWUHVFc1pFZzRBQjhLbmtkb1lHRUxyNWlGT2o2RHlpTkt2emRGR2lmdGg0b0VfTFlTRQ?oc=5",
-      "day": "2026-11-06",
-      "rank": 3
-    },
-    {
-      "title": "科軒動力探索「人工智能＋」綠色運力模式 旗下中銅動能以新能源重卡換電及固定線路運輸為切入點",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LY0xueVUwbzhQQ1FuM0M2NFdDNE04ZWRVd0FVb0RVS3RacWZ1MGdrN2FzTUlrb05LSUhrX2k2SFdkbmt6ZW9uaXJsbEpoMDZZc2J0dVI5MTEtYkM00gFiQVVfeXFMTzFSX0l6V1VYclZKZ3AwWGYxaVZfZ25IOEVpSEpnRW5wUnpIX1ZUUm1Wem9GdGpuU3pwZ09mQWQ3OEhEdmFFY3RjRWp0clZ5SGdKZGVuSy02QnQ4VlhHVnZZU1E?oc=5",
-      "day": "2026-11-06",
-      "rank": 4
-    },
-    {
-      "title": "受人工智能監管擔憂影響，納斯達克指數創下19個月來最大單日跌幅",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtMzl5Ti12Z0lRdXVlX014S3JKNVA0OFhFT2Y5a1pCZUtPSTNjWV9mS1dqbWNqV3ZLZTlDN0E5aE8zdW94OXFLTlRiRExJTnFnMjIwbWpIRjhKdVVyUmo2ZVo0YjhwSmo1QkxwLVhSQ3cxYThWeW5B?oc=5",
-      "day": "2026-11-06",
-      "rank": 5
-    },
-    {
-      "title": "亞洲科技巨頭在人工智慧交易崩跌中遭受重創",
-      "source": "Business Insider Taiwan",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXcEdUazhiYjNHbFB3RHR5YUlVakNFQ1o1bFY3aUlXOURqUHoxOVNaUmI0Rl9yb1RBOTE2NVRhQ2hhNUNXYmh1SHNoT2NwdjBVcTJSd2VB?oc=5",
-      "day": "2026-11-06",
-      "rank": 6
     },
     {
       "title": "AI不能慢下來？中國大陸人工智能競賽的政策困境",
       "source": "Rti 中央廣播電臺",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vNVNKTGZYVFUwT2VrNGYyUkg1TXpBeGhBbnA4MmZHWFhmRF9OUHdqM0U0eFFTTmJ6THczQ2xHYjlPTVA4cnJEMlR5LWc0Rmc0SzcwX2VuWEp0ZDQtOVJQMw?oc=5",
-      "day": "2026-11-06",
+      "day": "2026-11-07",
+      "rank": 3
+    },
+    {
+      "title": "美國民主黨擬推“超級人工智能” 禁令",
+      "source": "台灣中評網",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tYW85N2VQRlMyQzNFMWVvWV80UklNbk9pOTVEalNWTWJSWFJ6NVhrTGRLVWdDcElESlhhUndCLVZtTlh3SUdrRm5HdG14dHhBNmhjZm1oWmNQN0pxZjBpYTk1TVJjZGFsWW9yeVRFMkJNdjB0VURIRUdzbGxIZw?oc=5",
+      "day": "2026-11-07",
+      "rank": 4
+    },
+    {
+      "title": "AI與HPC需求升溫 日月光擴產布局南科高階封測",
+      "source": "自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oTW9MSHE2VmlWektJbmVUS0g4ZVVDNGdpVDBhTl9LX2F5WWYzRXdEMFRWOWlSLXc0eTVlNU1ab1RXVXgwZ2s1Q2pNclhmeDlaVUx0WkNoeDIya3dMbUxR0gFkQVVfeXFMUFBGMzEybkc4OHVMZk1abmNxQWwzU2NYN1hySEFIWmRfN01fYjQzZXVIdWtkNUpWQWItb2puZ0RicnBCd0pWTmQzRTh5eXNEc2hPXzBBY0g3ZTVocFpHcExJNzEyTA?oc=5",
+      "day": "2026-11-07",
+      "rank": 5
+    },
+    {
+      "title": "Elon Musk的御用律師談AI對法律業的影響：「中間的肥肉將被削去」",
+      "source": "Business Insider Taiwan",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jOWQ2MGJFV19YaXNZcjN5X0l1RkhKbXNOZF84MzNsNXU4M3lHdDJfRVA3UERtYVNMTW80OGFNOFdNc0dwQ2Q1Q0p1TkNoSE9Nd1ZjeDB3?oc=5",
+      "day": "2026-11-07",
+      "rank": 6
+    },
+    {
+      "title": "「引導式學習」工具惹議 學校禁AI恐罷用谷歌",
+      "source": "大紀元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05T0RFUmo2MTV1dVA3X3VpV0pMTFI5Sm04aG52N0dJY0ZUY1hZampDNDVzYkFnY25sYkhUbHU2THZ1TFlnQnV6X083eVNNUlR2d1l5ZzYzSVdmbVFBZE9EctIBZkFVX3lxTFB4Z3huNEsyQS1QNkZDOG10NjkweEdOelBqSEtZWHY3YnEwQ01wY2lPaU9lbWkwbktzSnNiTV9FSnlKazNBRlRhc0dybElHZ2ZWbDFFd3pCNHhrU0ZlSXd3SVZITkxWQQ?oc=5",
+      "day": "2026-11-07",
       "rank": 7
     },
     {
-      "title": "齊魯醫院發布兩個AI平台 打造智慧醫院「齊魯樣板」",
-      "source": "大公文匯網",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EUWZ5NG44amdzVUlBV3piUlVCMEh1ZzlvS2FvVDBrRUo0UXZQUFg3bjYtVW5BVU4wMjFvTXhFaVl4Y1liNFpPQ3hmb2Jyckl3YlJsSGk5YnlHRl9fYWpUVGxtVGRFNldnMHdMTTBOSTU?oc=5",
-      "day": "2026-11-06",
+      "title": "Raycast 推出新功能 讓用戶可語音與 AI 互動並自動獲取上下文",
+      "source": "Techritual",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kMFU1LUY2NjZDRjlBWTIwQ1lHczd4WVlJOE9nTl9mdjJTN2tLdmdhS1hNQU1jR2FWOEQtZFNWVG9DMzQ0ajRaaHMzT2dkTWh6YmF4Y2Y3c2o?oc=5",
+      "day": "2026-11-07",
       "rank": 8
     },
     {
-      "title": "禁止資料中心！民主黨伊朗裔眾議員喊停先進人工智慧開發與馬斯克隔空交火| 國際",
-      "source": "Newtalk新聞",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zZUhvR2hTNDBJOFZhOVZ5M0FJX0M0MkQ2OTQ1SVdHZnd6TElsMXFOY0pmeC0zNDRNM3hVX2ZKWHpvUHJvdnlhVU50bTFaQndDU2pZVjc0cXdCZU0?oc=5",
-      "day": "2026-11-06",
+      "title": "要聞解說 - 民主黨重掌美國國會 AI監管憂慮震蕩全球股市",
+      "source": "RFI",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQT1ZQRHZ2WGFyY2xMNmFWTFM2a3pZbF8yakV5VWdmUV9LU1o3SlZMeFR4bksxZ2k2dWFhZUplOG1yVGMyTjNOanF6SGdaZjBRVldQWV9LWGFvYXV0TzdIVU9xYXhyUnQ2WEdrOGdNbnBDU3FlSEdLSzdyOTFheTZxWEhsQm5OUDVQaklheDRWWUJuMjVkbG1scFRqWGVSbFFBVGF4OFJzdGduQ3Z5S0Z3YS01ajlaTF9xMmxpVGlTMkx0a1B1blpjR1JyakVRc0Fqa3Y3aGR4TW9iaW8zblFKRXFyRzk5R0x1Vkx0VE1KVnREUlBQUDZ2a2FjX0VJZlRhbF9rQmpLQmhRRWVobU9EdGFtWjZrZDI2aXBzamoxcEstRkV0dmoxSWVRbjFKMXA5amRGWjBKNHREMjlJSjhmT0JxbVhfSTFhdExkUUY1ZWlqLXBBMjRySktGRHljS3ZTLWRlRUlNTFZ2a0l1TG15QThiQ1JBZUttbmh4eDMwcEJ6T1lvTUNXWWpqclBiOHFn?oc=5",
+      "day": "2026-11-07",
       "rank": 9
     },
     {
-      "title": "中期選舉後民主黨高層呼籲限製人工智能產業擴張：「立即暫停全國數據中心建設」",
-      "source": "風火輪傳媒有限公司",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Cc01kdnJVS2czclBFRWJFZUhrY1l0OTI1Z2paU0pKOTZiNjZuUGhua3dRbDZNdTZkUEhQamktNG9ZaE5lZ1hBSHB5OFhYdmhCZnQ3c1F0cURSbG95d3BFTEtTT0E5dzBuSXBTdGFIQmVsNE9m?oc=5",
-      "day": "2026-11-06",
+      "title": "推進「人工智能+」 北都成創科引擎 蔡傑銘：基建與產業協同推進 壯大智能產業生態",
+      "source": "www.singtao.ca",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdHMzd2RLdUtCUkpHSVY3dzNXRE5XNWNsRGEtVVBHMTlPdmNkdnBsX3VKQ2hPdy1OM0ZkdF9tMlBGUjV6ck1oSmVvV3hYQktTQ3dHMjA0QmVpT3huOGdtOG9Ic0VfMkRnVWZMMU5ObTB6SnNMZnZrS1d1UTV1TnVuTk9MT1RfbXRsbk5zeS1mV1huQjUyTDhKeEgxTHJINmxQemJpWFhpUThsWC1wUW91bVRkLTNOVGdhRGxmXw?oc=5",
+      "day": "2026-11-07",
       "rank": 10
     }
   ],
   "articles": [
     {
-      "title": "市場觀察 | 人工智能股遭遇歷史性暴跌：究竟發生了什麼，後市將如何演繹？",
+      "title": "市場中的一個插曲：人工智能牛市遭遇重挫的一週（附現金與融資交易排行榜）",
       "source": "Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2NXS29UMFVDS3k4S3NVYXdoeFRLRTlSNzBWRGdvUlJZdTZjSEVybjBHTGpRenVzWTRNcUxUdGJpemFnNE4xN2h4Vktwam9VNlh6cFpKekZDR3dsTi1HVGpRZ1dOU3lmNTVkRk4xM1ZWc2xjSk4wSEJ2dlNiZVBzbHN0UkRHUFB1V0s3SkpRQVg2RERPbmRkS25NY3NWUGRPUGMwRGwwTWotd3N0SWlQbk5IcUM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE9TbjFKbmJERjdtcjhUVjFXWjY3ODRiQnByd1BWbGVQTDIwSWVMaFlYd2hsZnhiTlhmdUR6WU54XzdFZnZvM2hQQk5KNl9HUU9oa2d5bkN3Zl9sSmtfRl81bTU3Y0puNEpYSjRFcHJOVEd0aHA1Qm5JeGZxS0I3RXFaUFJhWmFXMDlNWHNTM0lDQzVSQTRWdTVFYzNEWEF2RWc?oc=5"
     },
     {
-      "title": "AI監管風暴！民主黨擬推「超級AI禁令」 罪刑比照核武罪 喊「立即暫停全美資料中心建設」",
-      "source": "工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aTHAzUXJyc0JsV2Vod0NPYmtmVjhMSmZZZzBldEJIUHhUQ3hHMDdyV2hRMEFZX3l5RVlYNWRnNWVDc09tWVdMU3FFZnVqN21BdGJseE1IdTV5Y1hzV09Z?oc=5"
-    },
-    {
-      "title": "野村: 料美國聯邦層級暫停人工智能數據中心可能性不大",
-      "source": "Yahoo 財經",
-      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNbHNPUnQ3WjdVTGpGUVlvaGJKMEVVNEhnR2pyT1dfekdRdmJwTnZXNWpwT082ak5IOUE5bmhNSkpjVm1IOFNnM3pQMWwyYTdrdXpXY0h1X3UyWk5ONE1YcWNBQnowdFl5RElqLXFEN1Y5ME5zWC1fNklodDdmVnNTS0JSNW1MbXFOT2lTTlJzNlNlM1huZERZYlVoQUpyY3h2RHd0cHRTLURCeHpkOFZMdS1vbmJrdllfbExvOVhEOVIycHNod01aby1kdzZCSDVBWU1uRVM1eDlhSUUwR3FCVjZjUl9ETG5ZU1V1WXR2OGNiczZKZlRWLVRxTzZOOVdjajgwOWVuOFBPUm41M0lmS1hkNkQtZ0JtRm9fU0hob29oYzk1Y1hsc0ItejQ0ZUE3V2NuXzNWbW5qeVBGUndRUk9vV0J4SnBTc2JZSTlWUHVFc1pFZzRBQjhLbmtkb1lHRUxyNWlGT2o2RHlpTkt2emRGR2lmdGg0b0VfTFlTRQ?oc=5"
-    },
-    {
-      "title": "科軒動力探索「人工智能＋」綠色運力模式 旗下中銅動能以新能源重卡換電及固定線路運輸為切入點",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LY0xueVUwbzhQQ1FuM0M2NFdDNE04ZWRVd0FVb0RVS3RacWZ1MGdrN2FzTUlrb05LSUhrX2k2SFdkbmt6ZW9uaXJsbEpoMDZZc2J0dVI5MTEtYkM00gFiQVVfeXFMTzFSX0l6V1VYclZKZ3AwWGYxaVZfZ25IOEVpSEpnRW5wUnpIX1ZUUm1Wem9GdGpuU3pwZ09mQWQ3OEhEdmFFY3RjRWp0clZ5SGdKZGVuSy02QnQ4VlhHVnZZU1E?oc=5"
-    },
-    {
-      "title": "受人工智能監管擔憂影響，納斯達克指數創下19個月來最大單日跌幅",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtMzl5Ti12Z0lRdXVlX014S3JKNVA0OFhFT2Y5a1pCZUtPSTNjWV9mS1dqbWNqV3ZLZTlDN0E5aE8zdW94OXFLTlRiRExJTnFnMjIwbWpIRjhKdVVyUmo2ZVo0YjhwSmo1QkxwLVhSQ3cxYThWeW5B?oc=5"
-    },
-    {
-      "title": "亞洲科技巨頭在人工智慧交易崩跌中遭受重創",
-      "source": "Business Insider Taiwan",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXcEdUazhiYjNHbFB3RHR5YUlVakNFQ1o1bFY3aUlXOURqUHoxOVNaUmI0Rl9yb1RBOTE2NVRhQ2hhNUNXYmh1SHNoT2NwdjBVcTJSd2VB?oc=5"
+      "title": "甲骨文的人工智能困境成為華爾街的新隱憂：null擔憂加劇，兩隻ETF值得關注",
+      "source": "鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EYnhIWl8wVkpUd1BJcWVTd3hZemJqaDRpWU56eHVBSTNWNDlNeEJsMFJyZ3F1em9vOGNPNTdIM0FqRnZCajI3eQ?oc=5"
     },
     {
       "title": "AI不能慢下來？中國大陸人工智能競賽的政策困境",
@@ -135,44 +121,64 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vNVNKTGZYVFUwT2VrNGYyUkg1TXpBeGhBbnA4MmZHWFhmRF9OUHdqM0U0eFFTTmJ6THczQ2xHYjlPTVA4cnJEMlR5LWc0Rmc0SzcwX2VuWEp0ZDQtOVJQMw?oc=5"
     },
     {
-      "title": "齊魯醫院發布兩個AI平台 打造智慧醫院「齊魯樣板」",
-      "source": "大公文匯網",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EUWZ5NG44amdzVUlBV3piUlVCMEh1ZzlvS2FvVDBrRUo0UXZQUFg3bjYtVW5BVU4wMjFvTXhFaVl4Y1liNFpPQ3hmb2Jyckl3YlJsSGk5YnlHRl9fYWpUVGxtVGRFNldnMHdMTTBOSTU?oc=5"
+      "title": "美國民主黨擬推“超級人工智能” 禁令",
+      "source": "台灣中評網",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tYW85N2VQRlMyQzNFMWVvWV80UklNbk9pOTVEalNWTWJSWFJ6NVhrTGRLVWdDcElESlhhUndCLVZtTlh3SUdrRm5HdG14dHhBNmhjZm1oWmNQN0pxZjBpYTk1TVJjZGFsWW9yeVRFMkJNdjB0VURIRUdzbGxIZw?oc=5"
     },
     {
-      "title": "禁止資料中心！民主黨伊朗裔眾議員喊停先進人工智慧開發與馬斯克隔空交火| 國際",
-      "source": "Newtalk新聞",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zZUhvR2hTNDBJOFZhOVZ5M0FJX0M0MkQ2OTQ1SVdHZnd6TElsMXFOY0pmeC0zNDRNM3hVX2ZKWHpvUHJvdnlhVU50bTFaQndDU2pZVjc0cXdCZU0?oc=5"
+      "title": "AI與HPC需求升溫 日月光擴產布局南科高階封測",
+      "source": "自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oTW9MSHE2VmlWektJbmVUS0g4ZVVDNGdpVDBhTl9LX2F5WWYzRXdEMFRWOWlSLXc0eTVlNU1ab1RXVXgwZ2s1Q2pNclhmeDlaVUx0WkNoeDIya3dMbUxR0gFkQVVfeXFMUFBGMzEybkc4OHVMZk1abmNxQWwzU2NYN1hySEFIWmRfN01fYjQzZXVIdWtkNUpWQWItb2puZ0RicnBCd0pWTmQzRTh5eXNEc2hPXzBBY0g3ZTVocFpHcExJNzEyTA?oc=5"
     },
     {
-      "title": "中期選舉後民主黨高層呼籲限製人工智能產業擴張：「立即暫停全國數據中心建設」",
-      "source": "風火輪傳媒有限公司",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Cc01kdnJVS2czclBFRWJFZUhrY1l0OTI1Z2paU0pKOTZiNjZuUGhua3dRbDZNdTZkUEhQamktNG9ZaE5lZ1hBSHB5OFhYdmhCZnQ3c1F0cURSbG95d3BFTEtTT0E5dzBuSXBTdGFIQmVsNE9m?oc=5"
-    },
-    {
-      "title": "智傳網（AI Flow）應急系統亮相第十八屆安博會--經濟·科技--人民網",
-      "source": "人民网财经",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tQlpxQ1ZZT0gtcmNBTUhUM2VvcFVlcWlHVExWbzdtZjA2OG9xRl9kUW5JM3dMcDB1OS1ObTV5WjNPY3MzZENzVS1XT2dVQ1RWU2JRanBnNmhHaEpFZzdPRGVhb0VPdFRlRjJDcGd2UlYxbVhM?oc=5"
-    },
-    {
-      "title": "消息人士：若AI资产持续承压，Anthropic或推迟上市",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jaDNfY1RDUzNtR09OV2IydGx6TDRpN1NWZUpiUy1jcGtnbVVLZWwzeEdwMlBpV3JqcEY0S0R6OTVyc2xRRHBwTld4RWpHVVFjNlI0MVR1YV9kUldkQ2kxSHZBNkZOdw?oc=5"
-    },
-    {
-      "title": "美國期中選舉後，AI放緩憂慮重創全球大型科技股，韓國股市熔斷",
-      "source": "Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNUlBGNFN3Mmd1RmR3cXBzYndXamxMYXV6UHVZNjVyLXVLQXU5eUlqREZURUNFTEhsd1hrbTY4NjUyU0xhcmZuUDFjaWs4OXYteGJZajNtSllfNjlWWG5yZmZjQW5sUXpBaHQyQnVhSU54WERHWXlYNG8tbmVpVjJQU1dJMy1fam92c1ZPZ0Zwc1NkX01oS0dpZDRCZWpIcFFvc3lvaS1uazdDVGowendTYTFtT0cydnBPR1NEaUxwSTk0VXJYcDJxS2hKQ2htcmktVHowUi1hREVsOHBGOVBDUU9PeklESDZYa003c3MxekF0QzJKem1VWmVkWkpoaUt6bkpiR3hNZWhGcjQtX3RDVDBCYWhpclpUMmhxblppYmF1RVdiUk9hTWxzMUNvQ1Y5MXd2YVVhTXNmM0gwc2FHbGFHdk13YW4tN3NacUdmSmhXRE1mOHlkWXd0b2JhcUpLZFNPZzNJX0FxZUx3SmxKbGhpTXpDVXZUU3hCcnZkRmZzMXJaNU5PT2ZfU28xZXpS?oc=5"
-    },
-    {
-      "title": "AI 投資 2027 年再加速 伺服器出貨增 36% 供應瓶頸轉向 DRAM、MLCC 與 CPO",
+      "title": "Elon Musk的御用律師談AI對法律業的影響：「中間的肥肉將被削去」",
       "source": "Business Insider Taiwan",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50SlN1WkhLSkZSUHItM0ZYa05mc2YxSXc1Y0N3aTZIX19Ka2RLZlVEQWtLMV9rOFdkcWxsU3RqdWN0WnRUQ0UxdXZXZVNPemstM2lpclVB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jOWQ2MGJFV19YaXNZcjN5X0l1RkhKbXNOZF84MzNsNXU4M3lHdDJfRVA3UERtYVNMTW80OGFNOFdNc0dwQ2Q1Q0p1TkNoSE9Nd1ZjeDB3?oc=5"
     },
     {
-      "title": "AI公司Thinking Machines Lab正以400亿美元投前估值筹集50亿美元",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqd0d1RUhhTDF1dzVoTVVIcmUycjNyNUtzb0Vuczg2OUtNdkIzRjduWUdQQTd2MDRRLXRWek1rVkRBTC1WM0htUmtoZ0JrbzdybjZrOEtfekxsdjk5MVVJTk9EOHhUdw?oc=5"
+      "title": "「引導式學習」工具惹議 學校禁AI恐罷用谷歌",
+      "source": "大紀元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05T0RFUmo2MTV1dVA3X3VpV0pMTFI5Sm04aG52N0dJY0ZUY1hZampDNDVzYkFnY25sYkhUbHU2THZ1TFlnQnV6X083eVNNUlR2d1l5ZzYzSVdmbVFBZE9EctIBZkFVX3lxTFB4Z3huNEsyQS1QNkZDOG10NjkweEdOelBqSEtZWHY3YnEwQ01wY2lPaU9lbWkwbktzSnNiTV9FSnlKazNBRlRhc0dybElHZ2ZWbDFFd3pCNHhrU0ZlSXd3SVZITkxWQQ?oc=5"
+    },
+    {
+      "title": "Raycast 推出新功能 讓用戶可語音與 AI 互動並自動獲取上下文",
+      "source": "Techritual",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kMFU1LUY2NjZDRjlBWTIwQ1lHczd4WVlJOE9nTl9mdjJTN2tLdmdhS1hNQU1jR2FWOEQtZFNWVG9DMzQ0ajRaaHMzT2dkTWh6YmF4Y2Y3c2o?oc=5"
+    },
+    {
+      "title": "要聞解說 - 民主黨重掌美國國會 AI監管憂慮震蕩全球股市",
+      "source": "RFI",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQT1ZQRHZ2WGFyY2xMNmFWTFM2a3pZbF8yakV5VWdmUV9LU1o3SlZMeFR4bksxZ2k2dWFhZUplOG1yVGMyTjNOanF6SGdaZjBRVldQWV9LWGFvYXV0TzdIVU9xYXhyUnQ2WEdrOGdNbnBDU3FlSEdLSzdyOTFheTZxWEhsQm5OUDVQaklheDRWWUJuMjVkbG1scFRqWGVSbFFBVGF4OFJzdGduQ3Z5S0Z3YS01ajlaTF9xMmxpVGlTMkx0a1B1blpjR1JyakVRc0Fqa3Y3aGR4TW9iaW8zblFKRXFyRzk5R0x1Vkx0VE1KVnREUlBQUDZ2a2FjX0VJZlRhbF9rQmpLQmhRRWVobU9EdGFtWjZrZDI2aXBzamoxcEstRkV0dmoxSWVRbjFKMXA5amRGWjBKNHREMjlJSjhmT0JxbVhfSTFhdExkUUY1ZWlqLXBBMjRySktGRHljS3ZTLWRlRUlNTFZ2a0l1TG15QThiQ1JBZUttbmh4eDMwcEJ6T1lvTUNXWWpqclBiOHFn?oc=5"
+    },
+    {
+      "title": "推進「人工智能+」 北都成創科引擎 蔡傑銘：基建與產業協同推進 壯大智能產業生態",
+      "source": "www.singtao.ca",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdHMzd2RLdUtCUkpHSVY3dzNXRE5XNWNsRGEtVVBHMTlPdmNkdnBsX3VKQ2hPdy1OM0ZkdF9tMlBGUjV6ck1oSmVvV3hYQktTQ3dHMjA0QmVpT3huOGdtOG9Ic0VfMkRnVWZMMU5ObTB6SnNMZnZrS1d1UTV1TnVuTk9MT1RfbXRsbk5zeS1mV1huQjUyTDhKeEgxTHJINmxQemJpWFhpUThsWC1wUW91bVRkLTNOVGdhRGxmXw?oc=5"
+    },
+    {
+      "title": "人工智能時代下大學的多元角色與多重使命- 評論",
+      "source": "香港文匯報",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QUVNyR1RKenRPU3puR3lDVWVpNVM3WElJdzV6cllLUXc5S1ZKTWc0eF8xN1NkYmgwMFQ2N3JQMGRPWTZCbWZLY1NJbjJxb0h5U19WWHl6WmNkMWU0ZklMMThhQjVRU05fTHBSRWx5cDFpUE9qVk40?oc=5"
+    },
+    {
+      "title": "未來科學大獎周「科技論壇」科大舉行 頂尖學者正反思辨 AI 邊界與人類抉擇",
+      "source": "巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxObzBrOUZUQk1QSnY2TlY0RXZjTFBaTy1lZU84M2pQdU4yWTNXYURwd2lzMUpuYVNoQ2FTb3ZkSzVzWFNYUGx5NmdWNDA3TjYwLTVVcGlGaFVZSi1KX2ZXcGY3cE9sTDM4U2xndzV2dWhoT1pfRUZBNkFTQXJ0NGNLcHNZTk1PdENza0hWaC1NN0lTT0JVV21oUHd5QnRpS3NvMVZsRk5iWXdqUkZHNEoxdDRrQ0lpdFVOQU1aN2RJbm8tWDNnYW9nTjNjUkxrZlBCWVRpRFdOVEhlUkljUEtCd055TVdRQ2FoWUt3Y0szRFljeDRvR01mRDZUNDNIQzFNVmw1TXBZRzZCb3hPaS1BQ1pScVdhUHpILWdUeFNCdDhqN3RHX3pYWTBNd01WaDY5a2JUMzM5TWg3a0trbjFiVlF0Y1VkZmdtSzVmMzJwQUw4VGR3dEVBelJNVzROSEhTRUxSLWdhWGlNVzUtQ3Nv?oc=5"
+    },
+    {
+      "title": "晶片股現在比標普500指數更便宜——這在整個人工智能熱潮期間從未出現過",
+      "source": "鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RckRKUVdJZWljcDMyLTV6T3l3Wjh2cGxYU2FWaGpMWWJKTjVWYjlkVVBnMGM1TkFqZDJYMVdNLTU1Sl9RTF8waw?oc=5"
+    },
+    {
+      "title": "第6天 台積電，人工智能價值鏈的中堅力量",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX1pPNlNpbFNyNXJQNGRmRU5Gc25VVlN1RzVHcGhzZ1lOMTJFTHFIclh1bnNTTThhWk4waWJkaDFfQ0N2aDRoN09rOW1tMDBFdDlfVGs5SkgxVTh3Q05EQkpzSXZfTUo3NWRQcm9nX1JZenlkdVBoTjZvallfUFhjSVpUdXAxcHZJcXkxR2RxdzlJaHpzTFkyTkpNWDRKNFpUdmlLVEZRbw?oc=5"
+    },
+    {
+      "title": "陳茂波： 港串連算力以耐心資本促成果轉化",
+      "source": "台灣中評網",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByQjJETk13N3FJS3QzVWJ5MWs1U1RsQ2lqMGg5VVdldDFJblpnXzRUeGc5dXp3dThGeFVsM0JhZTFwUTdpam9OYW9iUUN0Vk1XSjJwSnVCaEJSTjJTSW42RmthUno1Z3liOFpTcVVGWUpKQmkwZWtnaHA5YjZOVU0?oc=5"
     }
   ]
 }
